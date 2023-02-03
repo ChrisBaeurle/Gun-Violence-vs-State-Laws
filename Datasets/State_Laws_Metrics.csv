@@ -1,0 +1,460 @@
+State,Subject/Law,Long Guns,Hand Guns,Safety Score
+Alabama,Permit required to purchase?,No,No,0
+Alabama,Firearm registration?,No,No,0
+Alabama,Assault weapon law?,No,No,0
+Alabama,Magazine capacity restriction?,No,No,0
+Alabama,Owner license required?,No,No,0
+Alabama,Permit required for concealed carry?,N/A,No,0
+Alabama,Permit required for open carry?,No,No,0
+Alabama,NFA weapons restricted?,No,No,0
+Alabama,Background checks required for private sales?,No,No,0
+Alaska,Permit required to purchase?,No,No,0
+Alaska,Firearm registration?,No,No,0
+Alaska,Assault weapon law?,No,No,0
+Alaska,Magazine capacity restriction?,No,No,0
+Alaska,Owner license required?,No,No,0
+Alaska,Permit required for concealed carry?,N/A,No,0
+Alaska,Permit required for open carry?,No,No,0
+Alaska,NFA weapons restricted?,No,No,0
+Alaska,Background checks required for private sales?,No,No,0
+Arizona,Permit required to purchase?,No,No,0
+Arizona,Firearm registration?,No,No,0
+Arizona,Assault weapon law?,No,No,0
+Arizona,Magazine capacity restriction?,No,No,0
+Arizona,Owner license required?,No,No,0
+Arizona,Permit required for concealed carry?,N/A,No,0
+Arizona,Permit required for open carry?,No,No,0
+Arizona,NFA weapons restricted?,No,No,0
+Arizona,Background checks required for private sales?,No,No,0
+Arkansas,Permit required to purchase?,No,No,0
+Arkansas,Firearm registration?,No,No,0
+Arkansas,Assault weapon law?,No,No,0
+Arkansas,Magazine capacity restriction?,No,No,0
+Arkansas,Owner license required?,No,No,0
+Arkansas,Permit required for concealed carry?,N/A,No,0
+Arkansas,Permit required for open carry?,No,No,0
+Arkansas,NFA weapons restricted?,Yes,No,0
+Arkansas,Background checks required for private sales?,No,No,0
+California,Permit required to purchase?,Partial,Partial,0.5
+California,Firearm registration?,Yes,Yes,1
+California,Owner license required?,No,No,0
+California,Assault weapon law?,Yes,Yes,1
+California,Magazine capacity restriction?,Yes,Yes,1
+California,Permit required for concealed carry?,N/A,Yes,1
+California,Open carry allowed?,Partial,Partial,1
+California,NFA weapons restricted?,Yes,Yes,1
+California,Background checks required for private sales?,Yes,Yes,1
+Colorado,Permit required to purchase?,No,No,0
+Colorado,Firearm registration?,No,No,0
+Colorado,Assault weapon law?,No*,No*,0
+Colorado,Magazine capacity restriction?,Yes,Yes,1
+Colorado,Owner license required?,No,No,0
+Colorado,Permit required for concealed carry?,N/A,Yes,1
+Colorado,Permit required for open carry?,No,No,0
+Colorado,NFA weapons restricted?,No,No,0
+Colorado,Background checks required for private sales?,Yes,Yes,1
+Connecticut,Permit required to purchase?,Yes,Yes,1
+Connecticut,Firearm registration?,Partial,Partial,0.5
+Connecticut,Assault weapon law?,Yes,Yes,1
+Connecticut,Magazine capacity restriction?,Yes,Yes,1
+Connecticut,Owner license required?,Yes,Yes,1
+Connecticut,Permit required for concealed carry?,N/A,Yes,1
+Connecticut,Permit required for open carry?,No,Yes,1
+Connecticut,NFA weapons restricted?,No,No,0
+Connecticut,Background checks required for private sales?,Yes,Yes,1
+Delaware,Permit required to purchase?,No,No,0
+Delaware,Firearm registration?,No,No,0
+Delaware,Assault weapon law?,Yes,Yes,1
+Delaware,Magazine capacity restriction?,Yes,Yes,1
+Delaware,Owner license required?,No,No,0
+Delaware,Permit required for concealed carry?,N/A,Yes,1
+Delaware,Permit required for open carry?,No,No,0
+Delaware,NFA weapons restricted?,Yes,Yes,1
+Delaware,Background checks required for private sales?,Yes,Yes,1
+District of Columbia,Permit required to purchase?,Yes,Yes,1
+District of Columbia,Owner license required?,Yes,Yes,1
+District of Columbia,Firearm registration?,Yes,Yes,1
+District of Columbia,Permit required for concealed carry?,N/A,Yes,1
+District of Columbia,Open carry allowed?,No,No,1
+District of Columbia,Assault weapon law?,Yes,Yes,1
+District of Columbia,Magazine capacity restriction?,Yes,Yes,1
+District of Columbia,NFA weapons restricted?,Yes,Yes,1
+District of Columbia,Background checks required for private sales?,Yes,Yes,1
+Florida,Permit required to purchase?,No,No,0
+Florida,Firearm registration?,No,No,0
+Florida,Assault weapon law?,No,No,0
+Florida,Magazine capacity restriction?,No,No,0
+Florida,Owner license required?,No,No,0
+Florida,Permit required for concealed carry?,N/A,Yes,1
+Florida,Permit required for open carry?,N/A,N/A,0
+Florida,NFA weapons restricted?,No,No,0
+Florida,Background checks required for private sales?,No,No,0
+Georgia,Permit required to purchase?,No,No,0
+Georgia,Firearm registration?,No,No,0
+Georgia,Assault weapon law?,No,No,0
+Georgia,Magazine capacity restriction?,No,No,0
+Georgia,Owner license required?,No,No,0
+Georgia,Permit required for concealed carry?,N/A,No,0
+Georgia,Permit required for open carry?,No,No,0
+Georgia,NFA weapons restricted?,No,No,0
+Georgia,Background checks required for private sales?,No,No,0
+Hawaii,Permit required to purchase?,Yes,Yes,1
+Hawaii,Firearm registration?,Yes,Yes,1
+Hawaii,Assault weapon law?,No,Yes,1
+Hawaii,Magazine capacity restriction?,No,Yes,1
+Hawaii,Owner license required?,No,No,0
+Hawaii,Permit required for concealed carry?,N/A,Yes,1
+Hawaii,Permit required for open carry?,Yes,Yes,1
+Hawaii,NFA weapons restricted?,Yes,Yes,1
+Hawaii,Background checks required for private sales?,Yes,Yes,1
+Idaho,Permit required to purchase?,No,No,0
+Idaho,Firearm registration?,No,No,0
+Idaho,Assault weapon law?,No,No,0
+Idaho,Magazine capacity restriction?,No,No,0
+Idaho,Owner license required?,No,No,0
+Idaho,Permit required for concealed carry?,N/A,No,0
+Idaho,Permit required for open carry?,No,No,0
+Idaho,NFA weapons restricted?,No,No,0
+Idaho,Background checks required for private sales?,No,No,0
+Illinois,Permit required to purchase?,Yes,Yes,1
+Illinois,Owner license required?,Yes,Yes,1
+Illinois,Firearm registration?,No,No,0
+Illinois,Permit required for concealed carry?,N/A,Yes,1
+Illinois,Open carry allowed?,No,No,1
+Illinois,Assault weapon law?,Yes,Yes,1
+Illinois,Magazine capacity restriction?,Yes,Yes,1
+Illinois,NFA weapons restricted?,Yes,Yes,1
+Illinois,Background checks required for private sales?,Yes,Yes,1
+Indiana,Permit required to purchase?,No,No,0
+Indiana,Firearm registration?,No,No,0
+Indiana,Assault weapon law?,No,No,0
+Indiana,Magazine capacity restriction?,No,No,0
+Indiana,Owner license required?,No,No,0
+Indiana,Permit required for concealed carry?,N/A,No,0
+Indiana,Permit required for open carry?,No,No,0
+Indiana,NFA weapons restricted?,No,No,0
+Indiana,Background checks required for private sales?,No,No,0
+Iowa,Permit required to purchase?,No,No,0
+Iowa,Firearm registration?,No,No,0
+Iowa,Assault weapon law?,No,No,0
+Iowa,Magazine capacity restriction?,No,No,0
+Iowa,Owner license required?,No,No,0
+Iowa,Permit required for concealed carry?,N/A,No,0
+Iowa,Permit required for open carry?,No,No,0
+Iowa,NFA weapons restricted?,Yes,Yes,1
+Iowa,Background checks required for private sales?,No,No,0
+Kansas,Permit required to purchase?,No,No,0
+Kansas,Firearm registration?,No,No,0
+Kansas,Assault weapon law?,No,No,0
+Kansas,Magazine capacity restriction?,No,No,0
+Kansas,Owner license required?,No,No,0
+Kansas,Permit required for concealed carry?,N/A,No,0
+Kansas,Permit required for open carry?,No,No,0
+Kansas,NFA weapons restricted?,No,No,0
+Kansas,Background checks required for private sales?,No,No,0
+Kentucky,Permit required to purchase?,No,No,0
+Kentucky,Firearm registration?,No,No,0
+Kentucky,Assault weapon law?,No,No,0
+Kentucky,Magazine capacity restriction?,No,No,0
+Kentucky,Owner license required?,No,No,0
+Kentucky,Permit required for concealed carry?,N/A,No,0
+Kentucky,Permit required for open carry?,No,No,0
+Kentucky,NFA weapons restricted?,No,No,0
+Kentucky,Background checks required for private sales?,No,No,0
+Lousiana,Permit required to purchase?,No,No,0
+Lousiana,Firearm registration?,No,No,0
+Lousiana,Assault weapon law?,No,No,0
+Lousiana,Magazine capacity restriction?,No,No,0
+Lousiana,Owner license required?,No,No,0
+Lousiana,Permit required for concealed carry?,N/A,Yes,1
+Lousiana,Permit required for open carry?,No,No,0
+Lousiana,NFA weapons restricted?,No,No,0
+Lousiana,Background checks required for private sales?,No,No,0
+Maine,Permit required to purchase?,No,No,0
+Maine,Firearm registration?,No,No,0
+Maine,Assault weapon law?,No,No,0
+Maine,Magazine capacity restriction?,No,No,0
+Maine,Owner license required?,No,No,0
+Maine,Permit required for concealed carry?,N/A,No,0
+Maine,Permit required for open carry?,No,No,0
+Maine,NFA weapons restricted?,No,No,0
+Maine,Background checks required for private sales?,No,No,0
+Maryland,Permit required to purchase?,No,Yes,1
+Maryland,Firearm registration?,No,Yes,1
+Maryland,Owner license required?,No,No,0
+Maryland,Permit required for concealed carry?,N/A,Yes,1
+Maryland,Permit required for open carry?,No,Yes,1
+Maryland,Assault weapon law?,Yes,Yes,1
+Maryland,Magazine capacity restriction?,Yes,Yes,1
+Maryland,NFA weapons restricted?,No,No,0
+Maryland,Background checks required for private sales?,Partial,Yes,1
+Massachusetts,Permit required to purchase?,Yes,Yes,1
+Massachusetts,Firearm registration?,No,No,0
+Massachusetts,Owner license required?,Yes,Yes,1
+Massachusetts,Permit required for concealed carry?,Yes,Yes,1
+Massachusetts,Permit required for open carry?,Yes,Yes,1
+Massachusetts,Assault weapon law?,Yes,Yes,1
+Massachusetts,Magazine capacity restriction?,Yes,Yes,1
+Massachusetts,NFA weapons restricted?,Yes,Yes,1
+Massachusetts,Background checks required for private sales?,Yes,Yes,1
+Michigan,Permit required to purchase?,No,Yes,1
+Michigan,Firearm registration?,No,Yes,1
+Michigan,Assault weapon law?,No,No,0
+Michigan,Magazine capacity restriction?,No,No,0
+Michigan,Owner license required?,No,No,0
+Michigan,Permit required for concealed carry?,N/A,Yes,1
+Michigan,Permit required for open carry?,No,No,0
+Michigan,NFA weapons restricted?,No,No,0
+Michigan,Background checks required for private sales?,No,Yes,1
+Minnesota,Permit required to purchase?,No,Yes,1
+Minnesota,Firearm registration?,No,No,0
+Minnesota,Assault weapon law?,No,No,0
+Minnesota,Magazine capacity restriction?,No,No,0
+Minnesota,Owner license required?,No,No,0
+Minnesota,Permit required for concealed carry?,N/A,Yes,1
+Minnesota,Permit required for open carry?,Yes,Yes,1
+Minnesota,NFA weapons restricted?,Yes,Yes,1
+Minnesota,Background checks required for private sales?,No,No,0
+Mississippi,Permit required to purchase?,No,No,0
+Mississippi,Firearm registration?,No,No,0
+Mississippi,Assault weapon law?,No,No,0
+Mississippi,Magazine capacity restriction?,No,No,0
+Mississippi,Owner license required?,No,No,0
+Mississippi,Permit required for concealed carry?,N/A,No,0
+Mississippi,Permit required for open carry?,No,No,0
+Mississippi,NFA weapons restricted?,No,No,0
+Mississippi,Background checks required for private sales?,No,No,0
+Missouri,Permit required to purchase?,No,No,0
+Missouri,Firearm registration?,No,No,0
+Missouri,Assault weapon law?,No,No,0
+Missouri,Magazine capacity restriction?,No,No,0
+Missouri,Owner license required?,No,No,0
+Missouri,Permit required for concealed carry?,No,No,0
+Missouri,Permit required for open carry?,No,No,0
+Missouri,NFA weapons restricted?,No,No,0
+Missouri,Background checks required for private sales?,No,No,0
+Montana,Permit required to purchase?,No,No,0
+Montana,Firearm registration?,No,No,0
+Montana,Assault weapon law?,No,No,0
+Montana,Magazine capacity restriction?,No,No,0
+Montana,Owner license required?,No,No,0
+Montana,Permit required for concealed carry?,N/A,No,0
+Montana,Permit required for open carry?,No,No,0
+Montana,NFA weapons restricted?,No,No,0
+Montana,Background checks required for private sales?,No,No,0
+Nebraska,Permit required to purchase?,No,Yes,1
+Nebraska,Firearm registration?,No,Yes,1
+Nebraska,Assault weapon law?,No,No,0
+Nebraska,Magazine capacity restriction?,No,No,0
+Nebraska,Owner license required?,No,No,0
+Nebraska,Permit required for concealed carry?,N/A,Yes,1
+Nebraska,Permit required for open carry?,No,No,0
+Nebraska,NFA weapons restricted?,No,No,0
+Nebraska,Background checks required for private sales?,No,Yes,1
+Nevada,Permit required to purchase?,No,No,0
+Nevada,Firearm registration?,No,No,0
+Nevada,Owner license required?,No,No,0
+Nevada,Permit required for concealed carry?,N/A,Yes,1
+Nevada,Permit required for open carry?,No,No,0
+Nevada,Assault weapon law?,No,No,0
+Nevada,Magazine capacity restriction?,No,No,0
+Nevada,NFA weapons restricted?,No,No,0
+Nevada,Background checks required for private sales?,Yes,Yes,1
+New Hampshire,Permit required to purchase?,No,No,0
+New Hampshire,Firearm registration?,No,No,0
+New Hampshire,Assault weapon law?,No,No,0
+New Hampshire,Magazine capacity restriction?,No,No,0
+New Hampshire,Owner license required?,No,No,0
+New Hampshire,Permit required for concealed carry?,N/A,No,0
+New Hampshire,Permit required for open carry?,No,No,0
+New Hampshire,NFA weapons restricted?,No,No,0
+New Hampshire,Background checks required for private sales?,No,No,0
+New Jersey,Permit required to purchase?,Yes,Yes,1
+New Jersey,Firearm registration?,No,Yes,1
+New Jersey,Owner license required?,No,No,0
+New Jersey,Permit required for concealed carry?,N/A,Yes,1
+New Jersey,Permit required for open carry?,No,Yes,1
+New Jersey,Assault weapon law?,Yes,Yes,1
+New Jersey,Magazine capacity restriction?,Yes,Yes,1
+New Jersey,NFA weapons restricted?,Yes,Yes,1
+New Jersey,Background checks required for private sales?,Yes,Yes,1
+New Mexico,Permit required to purchase?,No,No,0
+New Mexico,Firearm registration?,No,No,0
+New Mexico,Assault weapon law?,No,No,0
+New Mexico,Magazine capacity restriction?,No,No,0
+New Mexico,Owner license required?,No,No,0
+New Mexico,Permit required for concealed carry?,N/A,Yes,1
+New Mexico,Permit required for open carry?,No,No,0
+New Mexico,NFA weapons restricted?,No,No,0
+New Mexico,Background checks required for private sales?,Yes,Yes,1
+New York,Permit required to purchase?,Partial,Yes,1
+New York,Firearm registration?,No,Yes,1
+New York,Owner license required?,No,Yes,1
+New York,Permit required for concealed carry?,N/A,Yes,1
+New York,Open carry allowed?,No,No,1
+New York,Assault weapon law?,Yes,Yes,1
+New York,Magazine capacity restriction?,Yes,Yes,1
+New York,NFA weapons restricted?,Yes,Yes,1
+New York,Background checks required for private sales?,Yes,Yes,1
+North Carolina,Permit required to purchase?,No,Yes,1
+North Carolina,Firearm registration?,No,No,0
+North Carolina,Assault weapon law?,No,No,0
+North Carolina,Magazine capacity restriction?,No,No,0
+North Carolina,Owner license required?,No,No,0
+North Carolina,Permit required for concealed carry?,N/A,Yes,1
+North Carolina,Permit required for open carry?,No,No,0
+North Carolina,NFA weapons restricted?,No,No,0
+North Carolina,Background checks required for private sales?,No,Yes,1
+North Dakota,Permit required to purchase?,No,No,0
+North Dakota,Firearm registration?,No,No,0
+North Dakota,Assault weapon law?,No,No,0
+North Dakota,Magazine capacity restriction?,No,No,0
+North Dakota,Owner license required?,No,No,0
+North Dakota,Permit required for concealed carry?,N/A,No,0
+North Dakota,Permit required for open carry?,No,Yes,1
+North Dakota,NFA weapons restricted?,No,No,0
+North Dakota,Background checks required for private sales?,No,No,0
+Ohio,Permit required to purchase?,No,No,0
+Ohio,Firearm registration?,No,No,0
+Ohio,Assault weapon law?,No,No,0
+Ohio,Magazine capacity restriction?,No,No,0
+Ohio,Owner license required?,No,No,0
+Ohio,Permit required for concealed carry?,N/A,No,0
+Ohio,Permit required for open carry?,No,No,0
+Ohio,NFA weapons restricted?,No,No,0
+Ohio,Background checks required for private sales?,No,No,0
+Oklahoma,Permit required to purchase?,No,No,0
+Oklahoma,Firearm registration?,No,No,0
+Oklahoma,Assault weapon law?,No,No,0
+Oklahoma,Magazine capacity restriction?,No,No,0
+Oklahoma,Owner license required?,No,No,0
+Oklahoma,Permit required for concealed carry?,N/A,No,0
+Oklahoma,Permit required for open carry?,No,No,0
+Oklahoma,NFA weapons restricted?,No,No,0
+Oklahoma,Background checks required for private sales?,No,No,0
+Oregon,Permit required to purchase?,No,No,0
+Oregon,Firearm registration?,No,No,0
+Oregon,Owner license required?,No,No,0
+Oregon,Assault weapon law?,No,No,0
+Oregon,Permit required for concealed carry?,Yes,Yes,1
+Oregon,Permit required for open carry?,No,No,0
+Oregon,NFA weapons restricted?,No,No,0
+Oregon,Background checks required for private sales?,Yes,Yes,1
+Oregon,Magazine capacity restriction?,No,No,0
+Pennsylvania,Permit required to purchase?,No,No,0
+Pennsylvania,Firearm registration?,No,No,0
+Pennsylvania,Assault weapon law?,No,No,0
+Pennsylvania,Magazine capacity restriction?,No,No,0
+Pennsylvania,Owner license required?,No,No,0
+Pennsylvania,Permit required for concealed carry?,N/A,Yes,1
+Pennsylvania,Permit required for open carry?,No,No,0
+Pennsylvania,NFA weapons restricted?,No,No,0
+Pennsylvania,Background checks required for private sales?,No,Yes,1
+Rhode Island,Permit required to purchase?,Yes,Yes,1
+Rhode Island,Firearm registration?,No,No,0
+Rhode Island,Assault weapon law?,No,No,0
+Rhode Island,Magazine capacity restriction?,N/A,N/A,0
+Rhode Island,Owner license required?,No,No,0
+Rhode Island,Permit required for concealed carry?,N/A,Yes,1
+Rhode Island,Permit required for open carry?,Yes,Yes,1
+Rhode Island,NFA weapons restricted?,Yes,Yes,1
+Rhode Island,Background checks required for private sales?,Yes,Yes,1
+South Carolina,Permit required to purchase?,No,No,0
+South Carolina,Firearm registration?,No,No,0
+South Carolina,Assault weapon law?,No,No,0
+South Carolina,Magazine capacity restriction?,No,No,0
+South Carolina,Owner license required?,No,No,0
+South Carolina,Permit required for concealed carry?,N/A,Yes,1
+South Carolina,Permit required for open carry?,No,Yes,1
+South Carolina,NFA weapons restricted?,No,No,0
+South Carolina,Background checks required for private sales?,No,No,0
+South Dakota,Permit required to purchase?,No,No,0
+South Dakota,Firearm registration?,No,No,0
+South Dakota,Assault weapon law?,No,No,0
+South Dakota,Magazine capacity restriction?,No,No,0
+South Dakota,Owner license required?,No,No,0
+South Dakota,Permit required for concealed carry?,N/A,No,0
+South Dakota,Permit required for open carry?,No,No,0
+South Dakota,NFA weapons restricted?,No,No,0
+South Dakota,Background checks required for private sales?,No,No,0
+Tennessee,Permit required to purchase?,No,No,0
+Tennessee,Firearm registration?,No,No,0
+Tennessee,Assault weapon law?,No,No,0
+Tennessee,Magazine capacity restriction?,No,No,0
+Tennessee,Owner license required?,No,No,0
+Tennessee,Permit required for concealed carry?,N/A,No,0
+Tennessee,Permit required for open carry?,N/A,No,0
+Tennessee,NFA weapons restricted?,No,No,0
+Tennessee,Background checks required for private sales?,No,No,0
+Texas,Permit required to purchase?,No,No,0
+Texas,Firearm registration?,No,No,0
+Texas,Assault weapon law?,No,No,0
+Texas,Magazine capacity restriction?,No,No,0
+Texas,Owner license required?,No,No,0
+Texas,Permit required for concealed carry?,N/A,No,0
+Texas,Permit required for open carry?,No,No,0
+Texas,NFA weapons restricted?,No,No,0
+Texas,Background checks required for private sales?,No,No,0
+Utah,Permit required to purchase?,No,No,0
+Utah,Firearm registration?,No,No,0
+Utah,Assault weapon law?,No,No,0
+Utah,Magazine capacity restriction?,No,No,0
+Utah,Owner license required?,No,No,0
+Utah,Permit required for concealed carry?,N/A,No,0
+Utah,Permit required for open carry?,No,No,0
+Utah,NFA weapons restricted?,No,No,0
+Utah,Background checks required for private sales?,No,No,0
+Vermont,Permit required to purchase?,No,No,0
+Vermont,Firearm registration?,No,No,0
+Vermont,Assault weapon law?,No,No,0
+Vermont,Magazine capacity restriction?,Yes,Yes,1
+Vermont,Owner license required?,No,No,0
+Vermont,Permit required for concealed carry?,N/A,No,0
+Vermont,Permit required for open carry?,No,No,0
+Vermont,NFA weapons restricted?,No,No,0
+Vermont,Background checks required for private sales?,Yes,Yes,1
+Virginia,Permit required to purchase?,No,No,0
+Virginia,Firearm registration?,No,No,0
+Virginia,Owner license required?,No,No,0
+Virginia,Permit required for concealed carry?,N/A,Yes,1
+Virginia,Permit required for open carry?,No,No,0
+Virginia,Assault weapon law?,Yes,Yes,1
+Virginia,Magazine capacity restriction?,No,No,0
+Virginia,NFA weapons restricted?,No,No,0
+Virginia,Background checks required for private sales?,Yes,Yes,1
+Washington,Permit required to purchase?,Partial,No,0
+Washington,Firearm registration?,Partial,Partial,0.5
+Washington,Owner license required?,No,No,0
+Washington,Permit required for concealed carry?,N/A,Yes,1
+Washington,Permit required for open carry?,No,No,0
+Washington,Assault weapon law?,Yes,Yes,1
+Washington,Magazine capacity restriction?,Yes,Yes,1
+Washington,NFA weapons restricted?,Partial,Partial,0.5
+Washington,Background checks required for private sales?,Yes,Yes,1
+West Virginia,Permit required to purchase?,No,No,0
+West Virginia,Firearm registration?,No,No,0
+West Virginia,Assault weapon law?,No,No,0
+West Virginia,Magazine capacity restriction?,No,No,0
+West Virginia,Owner license required?,No,No,0
+West Virginia,Permit required for concealed carry?,N/A,No,0
+West Virginia,Permit required for open carry?,No,No,0
+West Virginia,NFA weapons restricted?,No,No,0
+West Virginia,Background checks required for private sales?,No,No,0
+Wisconsin,Permit required to purchase?,No,Yes,1
+Wisconsin,Firearm registration?,No,No,0
+Wisconsin,Assault weapon law?,No,No,0
+Wisconsin,Magazine capacity restriction?,No,No,0
+Wisconsin,Owner license required?,No,No,0
+Wisconsin,Permit required for concealed carry?,N/A,Yes,1
+Wisconsin,Permit required for open carry?,No,No,0
+Wisconsin,NFA weapons restricted?,No,No,0
+Wisconsin,Background checks required for private sales?,No,No,0
+Wyoming,Permit required to purchase?,No,No,0
+Wyoming,Firearm registration?,No,No,0
+Wyoming,Assault weapon law?,No,No,0
+Wyoming,Magazine capacity restriction?,No,No,0
+Wyoming,Owner license required?,No,No,0
+Wyoming,Permit required for concealed carry?,N/A,No,0
+Wyoming,Permit required for open carry?,No,No,0
+Wyoming,NFA weapons restricted?,No,No,0
+Wyoming,Background checks required for private sales?,No,No,0
