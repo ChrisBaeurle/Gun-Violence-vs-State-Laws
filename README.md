@@ -1,5 +1,4 @@
-![](Screenshots/crime_scene.jpg)
-<br/>
+![](/Screenshots/crime_scene.jpg)
 
 # Do stricter state gun laws have a positive correlation on US mass shootings? 
 By Chris Baeurle
@@ -10,6 +9,7 @@ Gun violence has become normalized in our US society. The latest data from the U
 I set out to find if there is indeed a correlation between the states with more regulation and mass shootings.
 
 ## Data Process
+* Problem statement and decision tree planning
 * BigQuery to scrape certain data from internet, pull others <br/>
 * Creating standardized scoring metric in for state laws and incorporating into data 
 * Python - Data Cleaning, Data Analysis, Visualization
@@ -28,6 +28,6 @@ I set out to find if there is indeed a correlation between the states with more 
 * NST-EST2022 - state by state population data from the US Census Bureau.
 
 ## Tech Stack
-* Excel
+* Excel, Powerpoint
 * Python (pandas, seaborn, matplotlib, plotly)
 * Tableau
