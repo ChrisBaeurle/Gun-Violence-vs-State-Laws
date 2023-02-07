@@ -1,4 +1,4 @@
-
+![](Screenshots/crime-tape.jpg)
 
 # Do stricter state gun laws have a positive correlation on US mass shootings? 
 By Chris Baeurle
