@@ -12,8 +12,8 @@ I set out to find if there is indeed a correlation between the states with more 
 * Problem statement and decision tree planning
 * BigQuery to scrape certain data from internet, pull others <br/>
 * Creating standardized scoring metric in for state laws and incorporating into data 
-* Python - Data Cleaning, Data Analysis, Visualization
-* Dashboard visualization for results presentation <br/>
+* Python - Data Cleaning, Data Analyses (regression, including predictive regression modeling), visualizations (radar, scatter, distribution)
+* Dashboard visualization for overall results presentation <br/>
 
 ## Data Analysis and Presentation
 
@@ -29,5 +29,5 @@ I set out to find if there is indeed a correlation between the states with more 
 
 ## Tech Stack
 * Excel, Powerpoint
-* Python (pandas, seaborn, matplotlib, plotly)
+* Python (pandas, seaborn, matplotlib, plotly, scikit-learn)
 * Tableau
