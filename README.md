@@ -17,8 +17,9 @@ I set out to find if there is indeed a correlation between the states with more 
 
 ## Data Analysis and Presentation
 
-<img src="https://github.com/ChrisBaeurle/Gun-Violence-vs-State-Laws/blob/main/Screenshots/Screenshot_1.png" width="200" />
 [Python](https://github.com/ChrisBaeurle/Gun-Violence-vs-State-Laws/blob/main/US%20Gun%20Violence.ipynb)<br/>
+<img src="https://github.com/ChrisBaeurle/Gun-Violence-vs-State-Laws/blob/main/Screenshots/Screenshot_1.png" width="200" />
+
 [Tableau](https://public.tableau.com/app/profile/chris.b6153/viz/USMassShootings_16751150296610/GVAkilled-state) (preview - ongoing)<br/>
 
 ## About the dataset
