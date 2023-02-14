@@ -4,9 +4,9 @@
 By Chris Baeurle
 
 ## Overview
-Gun violence has become normalized in our US society. The latest data from the US Centers for Disease Control and Prevention (CDC) shoes a total of 45,222 people died from gun-related injuries of all causes during 2020. More than 19,000 of the deaths were homicides. Data from the Gun Violence Archieve shows mass shootings have been ever increasing. The country continues to argue over gun rights and laws. That begs the question, do gun laws have an effect at all? 
+Gun violence has become normalized in our US society. The latest data from the US Centers for Disease Control and Prevention (CDC) shows a total of 45,222 people died from gun-related injuries of all causes during 2020. More than 19,000 of the deaths were homicides. Reports from the Gun Violence Archieve, along with Mother Jones present the dismal fact that mass shootings have been ever increasing. Meanwhile the US continues to be at odds over gun rights and regulation. That begs the question, do gun laws in place have an effect on preventing mass shootings? 
 
-I set out to find if there is indeed a correlation between the states with more regulation and mass shootings.
+I set out to find if there is indeed a correlation.
 
 ## Data Process
 * Problem statement and decision tree planning
