@@ -20,7 +20,8 @@ I set out to find if there is indeed a correlation.
 [Python](https://github.com/ChrisBaeurle/Gun-Violence-vs-State-Laws/blob/main/US%20Gun%20Violence.ipynb)<br/>
 <img src="https://github.com/ChrisBaeurle/Gun-Violence-vs-State-Laws/blob/main/Screenshots/Screenshot_1.png" width="200" />
 
-[Tableau](https://public.tableau.com/app/profile/chris.b6153/viz/USMassShootings_16751150296610/GVAkilled-state) (preview - ongoing)<br/>
+[Tableau](https://public.tableau.com/app/profile/chris.b6153/viz/USMassShootings_16751150296610/GVAkilled-state)<br/>
+<img src="https://github.com/ChrisBaeurle/Gun-Violence-vs-State-Laws/blob/main/Screenshots/Screenshot_Tab.png" width="200" />
 
 ## About the dataset
 * everytownreasearch - organization committed to reducing gun violence, datasets tracked
