@@ -31,6 +31,6 @@ I set out to find if there is indeed a correlation.
 * NST-EST2022 - state by state population data from the US Census Bureau.
 
 ## Tech Stack
-* Excel, Powerpoint
+* Excel (BigQuery for web scraping), Powerpoint
 * Python (pandas, seaborn, matplotlib, plotly, scikit-learn)
 * Tableau
